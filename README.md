@@ -10,7 +10,7 @@ The file above generates all possible scenarios of order of receipt for some giv
 
 1. Clone this repository
 ```sh
-git clone https://github.com/MariamH78/test-generation.git 
+git clone https://github.com/MariamH78/packet-reception-test-generation.git 
 ```
 2. Build main.cpp (The command below assumes g++ exists on the machine)
 ```sh
